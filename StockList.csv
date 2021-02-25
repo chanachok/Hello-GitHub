@@ -1,0 +1,25 @@
+ Symbol , Market , Index/Industry/Sector , Security Type 
+AOT,SET,TRANS,Common Shares
+AP,SET,PROP,Common Shares
+BANPU,SET,ENERG,Common Shares
+BCH,SET,HELTH,Common Shares
+BCP,SET,ENERG,Common Shares
+BDMS,SET,HELTH,Common Shares
+BEC,SET,MEDIA,Common Shares
+BGRIM,SET,ENERG,Common Shares
+COM7,SET,COMM,Common Shares
+CPALL,SET,COMM,Common Shares
+CPF,SET,FOOD,Common Shares
+CPN,SET,PROP,Common Shares
+DOHOME,SET,COMM,Common Shares
+DTAC,SET,ICT,Common Shares
+GLOBAL,SET,COMM,Common Shares
+GULF,SET,ENERG,Common Shares
+HMPRO,SET,COMM,Common Shares
+INTUCH,SET,ICT,Common Shares
+IRPC,SET,ENERG,Common Shares
+JAS,SET,ICT,Common Shares
+MINT,SET,FOOD,Common Shares
+SGP,SET,ENERG,Common Shares
+TOA,SET,CONMAT,Common Shares
+SCGP,SET,ENERG,Common Shares
