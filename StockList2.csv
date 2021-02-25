@@ -1,3 +1,5 @@
  Symbol , Market , Index/Industry/Sector , Security Type 
-AOT,SET,TRANS,Common Shares
-BANPU,SET,ENERG,Common Shares
+SIRI,SET,ENERG,Common Shares
+PRIN,SET,ENERG,Common Shares
+FNS,SET,ENERG,Common Shares
+AQUA,SET,ENERG,Common Shares
