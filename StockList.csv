@@ -1,20 +1,138 @@
  Symbol , Market , Index/Industry/Sector , Security Type 
-AOT,SET,TRANS,Common Shares
-AP,SET,PROP,Common Shares
-BANPU,SET,ENERG,Common Shares
-BCH,SET,HELTH,Common Shares
-BDMS,SET,HELTH,Common Shares
-BEC,SET,MEDIA,Common Shares
-BGRIM,SET,ENERG,Common Shares
-COM7,SET,COMM,Common Shares
-CPALL,SET,COMM,Common Shares
-CPF,SET,FOOD,Common Shares
-CPN,SET,PROP,Common Shares
-DOHOME,SET,COMM,Common Shares
-DTAC,SET,ICT,Common Shares
-GLOBAL,SET,COMM,Common Shares
-GULF,SET,ENERG,Common Shares
-HMPRO,SET,COMM,Common Shares
-SGP,SET,ENERG,Common Shares
-TOA,SET,CONMAT,Common Shares
-SCGP,SET,ENERG,Common Shares
+DCON, SET, TRANS, Common Shares
+PF, SET, TRANS, Common Shares
+CCP, SET, TRANS, Common Shares
+AQUA, SET, TRANS, Common Shares
+INGRS, SET, TRANS, Common Shares
+CHEWA, SET, TRANS, Common Shares
+CIMBT, SET, TRANS, Common Shares
+PAF, SET, TRANS, Common Shares
+MACO, SET, TRANS, Common Shares
+TAKUNI, SET, TRANS, Common Shares
+CI, SET, TRANS, Common Shares
+GTB, SET, TRANS, Common Shares
+PLE, SET, TRANS, Common Shares
+THMUI, SET, TRANS, Common Shares
+RICHY, SET, TRANS, Common Shares
+CMC, SET, TRANS, Common Shares
+SKE, SET, TRANS, Common Shares
+SIRI, SET, TRANS, Common Shares
+CPT, SET, TRANS, Common Shares
+PPM, SET, TRANS, Common Shares
+MILL, SET, TRANS, Common Shares
+ML, SET, TRANS, Common Shares
+BC, SET, TRANS, Common Shares
+BLAND, SET, TRANS, Common Shares
+LHFG, SET, TRANS, Common Shares
+BSBM, SET, TRANS, Common Shares
+TMB, SET, TRANS, Common Shares
+AKP, SET, TRANS, Common Shares
+SAMCO, SET, TRANS, Common Shares
+FN, SET, TRANS, Common Shares
+SVOA, SET, TRANS, Common Shares
+ALLA, SET, TRANS, Common Shares
+CNT, SET, TRANS, Common Shares
+SIAM, SET, TRANS, Common Shares
+COTTO, SET, TRANS, Common Shares
+RP, SET, TRANS, Common Shares
+SYNTEC, SET, TRANS, Common Shares
+SCI, SET, TRANS, Common Shares
+BJCHI, SET, TRANS, Common Shares
+S, SET, TRANS, Common Shares
+TPIPL, SET, TRANS, Common Shares
+PSTC, SET, TRANS, Common Shares
+CMAN, SET, TRANS, Common Shares
+TRT, SET, TRANS, Common Shares
+CAZ, SET, TRANS, Common Shares
+PRIN, SET, TRANS, Common Shares
+MM, SET, TRANS, Common Shares
+SCN, SET, TRANS, Common Shares
+FSS, SET, TRANS, Common Shares
+RSP, SET, TRANS, Common Shares
+L&E, SET, TRANS, Common Shares
+CPI, SET, TRANS, Common Shares
+PL, SET, TRANS, Common Shares
+SSSC, SET, TRANS, Common Shares
+QH, SET, TRANS, Common Shares
+CCET, SET, TRANS, Common Shares
+TSE, SET, TRANS, Common Shares
+TPOLY, SET, TRANS, Common Shares
+LEE, SET, TRANS, Common Shares
+IFS, SET, TRANS, Common Shares
+SST, SET, TRANS, Common Shares
+NVD, SET, TRANS, Common Shares
+CM, SET, TRANS, Common Shares
+TWP, SET, TRANS, Common Shares
+LHK, SET, TRANS, Common Shares
+SC, SET, TRANS, Common Shares
+SUSCO, SET, TRANS, Common Shares
+PLAT, SET, TRANS, Common Shares
+HTECH, SET, TRANS, Common Shares
+DEMCO, SET, TRANS, Common Shares
+STPI, SET, TRANS, Common Shares
+IRPC, SET, TRANS, Common Shares
+UV, SET, TRANS, Common Shares
+UOBKH, SET, TRANS, Common Shares
+TRU, SET, TRANS, Common Shares
+SENA, SET, TRANS, Common Shares
+LIT, SET, TRANS, Common Shares
+SMIT, SET, TRANS, Common Shares
+MOONG, SET, TRANS, Common Shares
+TVI, SET, TRANS, Common Shares
+TWPC, SET, TRANS, Common Shares
+FNS, SET, TRANS, Common Shares
+UNIQ, SET, TRANS, Common Shares
+MATI, SET, TRANS, Common Shares
+TNITY, SET, TRANS, Common Shares
+ILINK, SET, TRANS, Common Shares
+LPN, SET, TRANS, Common Shares
+TC, SET, TRANS, Common Shares
+QTC, SET, TRANS, Common Shares
+ROJNA, SET, TRANS, Common Shares
+PG, SET, TRANS, Common Shares
+SF, SET, TRANS, Common Shares
+SAMTEL, SET, TRANS, Common Shares
+VRANDA, SET, TRANS, Common Shares
+SCP, SET, TRANS, Common Shares
+TSTE, SET, TRANS, Common Shares
+TTA, SET, TRANS, Common Shares
+LANNA, SET, TRANS, Common Shares
+AP, SET, TRANS, Common Shares
+BA, SET, TRANS, Common Shares
+CTW, SET, TRANS, Common Shares
+PRAKIT, SET, TRANS, Common Shares
+TK, SET, TRANS, Common Shares
+THCOM, SET, TRANS, Common Shares
+NC, SET, TRANS, Common Shares
+OCC, SET, TRANS, Common Shares
+TPCORP, SET, TRANS, Common Shares
+BUI, SET, TRANS, Common Shares
+PMTA, SET, TRANS, Common Shares
+BTNC, SET, TRANS, Common Shares
+BANPU, SET, TRANS, Common Shares
+KTB, SET, TRANS, Common Shares
+FPT, SET, TRANS, Common Shares
+PSH, SET, TRANS, Common Shares
+TPP, SET, TRANS, Common Shares
+CK, SET, TRANS, Common Shares
+NPK, SET, TRANS, Common Shares
+TNL, SET, TRANS, Common Shares
+IRC, SET, TRANS, Common Shares
+AH, SET, TRANS, Common Shares
+FMT, SET, TRANS, Common Shares
+OGC, SET, TRANS, Common Shares
+TR, SET, TRANS, Common Shares
+TCOAT, SET, TRANS, Common Shares
+ICC, SET, TRANS, Common Shares
+BCP, SET, TRANS, Common Shares
+LRH, SET, TRANS, Common Shares
+DTCI, SET, TRANS, Common Shares
+BAY, SET, TRANS, Common Shares
+TCAP, SET, TRANS, Common Shares
+TMW, SET, TRANS, Common Shares
+SUC, SET, TRANS, Common Shares
+AYUD, SET, TRANS, Common Shares
+CHARAN, SET, TRANS, Common Shares
+BCT, SET, TRANS, Common Shares
+WACOAL, SET, TRANS, Common Shares
+NKI, SET, TRANS, Common Shares
